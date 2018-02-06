@@ -1,0 +1,8 @@
+
+"skeleton"
+{
+	"base" 			"helix"
+	"title" 		"Skeleton"
+	"author" 		"nebulous"
+	"menusystem"	"1"
+}
